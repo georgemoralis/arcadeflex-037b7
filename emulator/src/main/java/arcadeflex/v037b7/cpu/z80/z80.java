@@ -21,7 +21,7 @@ import static arcadeflex.v037b7.mame.cpuintrfH.*;
 import static arcadeflex.v037b7.mame.driverH.*;
 import static arcadeflex.v037b7.mame.cpuintrf.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 
 public class z80 extends cpu_interface {
 

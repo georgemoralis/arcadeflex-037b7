@@ -19,7 +19,7 @@ import static arcadeflex.v037b7.mame.common.*;
 import static arcadeflex.v037b7.mame.memory.*;
 import static arcadeflex.v037b7.mame.sndintrf.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 //sound imports
 import static arcadeflex.v037b7.sound.ay8910.*;
 import static arcadeflex.v037b7.sound.ay8910H.*;

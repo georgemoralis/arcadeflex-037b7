@@ -20,7 +20,7 @@ import static arcadeflex.v037b7.mame.drawgfxH.*;
 import static arcadeflex.v037b7.mame.inptport.*;
 import static arcadeflex.v037b7.mame.osdependH.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 import static arcadeflex.platform.video.*;
 //vidhrdw imports
 import static arcadeflex.v037b7.vidhrdw.generic.*;

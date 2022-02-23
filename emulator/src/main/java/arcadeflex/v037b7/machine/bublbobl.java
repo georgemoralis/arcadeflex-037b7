@@ -22,7 +22,7 @@ import static arcadeflex.v037b7.mame.sndintrf.*;
 import static arcadeflex.v056.mame.timer.*;
 import static arcadeflex.v056.mame.timerH.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 //vidhrdw imports
 import static arcadeflex.v037b7.vidhrdw.bublbobl.*;
 

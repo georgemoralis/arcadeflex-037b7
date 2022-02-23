@@ -10,7 +10,7 @@ import static arcadeflex.v037b7.generic.funcPtr.*;
 import static arcadeflex.v037b7.mame.cpuintrf.*;
 import static arcadeflex.v037b7.mame.cpuintrfH.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 
 public class buggychl {
 

@@ -21,7 +21,7 @@ import static arcadeflex.v037b7.mame.drawgfxH.*;
 import static arcadeflex.v037b7.mame.sndintrf.*;
 import static arcadeflex.v037b7.mame.sndintrfH.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 //sound imports
 import static arcadeflex.v037b7.sound.MSM5205.*;
 import static arcadeflex.v037b7.sound.MSM5205H.*;

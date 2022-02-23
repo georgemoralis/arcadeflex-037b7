@@ -18,7 +18,7 @@ import static arcadeflex.v037b7.mame.drawgfxH.*;
 import static arcadeflex.v037b7.mame.osdependH.*;
 import static arcadeflex.v037b7.mame.common.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 //vidhrdw imports
 import static arcadeflex.v037b7.vidhrdw.generic.*;
 //java imports

@@ -23,7 +23,7 @@ import static arcadeflex.v037b7.mame.cpuintrfH.*;
 import static arcadeflex.v037b7.mame.memoryH.*;
 import static arcadeflex.v037b7.mame.palette.*;
 //platform imports
-import static arcadeflex.platform.osdepend.*;
+import static arcadeflex.v037b7.platform.osdepend.*;
 //sndhrdw imports
 import static arcadeflex.v037b7.sndhrdw.rastan.*;
 //sound imports
